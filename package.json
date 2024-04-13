@@ -34,9 +34,13 @@
 
         "moment": "^2.30.1",
 
+        "mongodb": "^6.5.0",
+
         "mongoose": "^6.12.7",
 
-        "require": "^2.4.20"
+        "node.js": "^0.0.1-security",
+
+        "require": "^0.4.4"
 
     }
 
