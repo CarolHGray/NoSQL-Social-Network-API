@@ -1,48 +1,29 @@
 {
-
-    "version": "1.0.0",
-
-    "description": "",
-
-    "main": "server.js",
-
-    "scripts": {
-
-        "test": "echo \"Error: no test specified\" && exit 1",
-
-        "start": "node server.js"
-
-    },
-
-    "repository": {
-
-        "type": "git",
-
-        "url": "git+https://github.com/CarolHGray/NoSQL-Social-Network-API.git"
-
-    },
-
-    "keywords": [],
-
-    "author": "",
-
-    "license": "ISC",
-
-    "dependencies": {
-
-        "express": "^4.19.2",
-
-        "moment": "^2.30.1",
-
-        "mongodb": "^6.5.0",
-
-        "mongoose": "^6.12.7",
-
-        "node.js": "^0.0.1-security",
-
-        "require": "^0.4.4"
-
-    }
-
+  "version": "1.0.0",
+  "description": "AN API for social network web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolHGray/NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongodb": "^6.5.0",
+    "mongoose": "^6.12.8",
+    "node.js": "^0.0.1-security",
+    "require": "^0.4.4"
+  },
+  "name": "nosql-social-network-api",
+  "bugs": {
+    "url": "https://github.com/CarolHGray/NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/CarolHGray/NoSQL-Social-Network-API#readme"
 }
-
