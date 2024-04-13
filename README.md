@@ -27,7 +27,8 @@ This is a set of API for a social network that uses a MongoDB database so that t
 
 ## Walkthrough Video
 
-https://drive.google.com/file/d/1cwQahm9rUKIp7RAtN18ts5Q4WFJE-I5-/view
+
+[Untitled_ Apr 13, 2024 2_05 PM.webm](https://github.com/CarolHGray/NoSQL-Social-Network-API/assets/56186028/45bab132-0d3c-4774-8664-4f1043478a4c)
 
 
 
